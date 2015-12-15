@@ -1,0 +1,6 @@
+ *~
+.DS_Store
+
+# Exclude the folder containing the generated documentation
+_build
+
