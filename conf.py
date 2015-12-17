@@ -113,15 +113,28 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'sphinx_resibots_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    "logo_only": True,
+    "logo_url": "https://resibots.eu",
+    'breadcrumb_root': 'Limbo', # set a custom name to the breacumb root
+    'contact_url': 'mailto:jean-baptiste.mouret@inria.fr', # add a "Contact us link" at the bottom with URL
+    'toc_afters': [('Limbo', 'http://www.resilient-robots.net/limbo')],
+}
+
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+
+if 'SPHINX_RESIBOTS_THEME' in os.environ:
+    default_theme_path = os.environ['SPHINX_RESIBOTS_THEME']
+else:
+    default_theme_path = '_theme'
+
+html_theme_path = [default_theme_path]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
