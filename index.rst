@@ -10,6 +10,12 @@ Principal Investigator: `Jean-Baptiste Mouret <http://pages.isir.upmc.fr/~mouret
 
 Period: 2015-2020 (May)
 
+
+.. image:: pics/damage_illustration_3_small.png
+   :width: 400 px
+   :alt: damaged 6-legged robot
+   :align: right
+
 Despite over 50 years of research in robotics, most existing robots are far from being as resilient as the simplest animals: they are fragile machines that easily stop functioning in difficult conditions.
 
 The goal of this project is to radically change this situation by providing the algorithmic foundations for low-cost robots that can autonomously recover from unforeseen damages in a few minutes.
@@ -26,7 +32,7 @@ Contents:
 
    videos
    faq
-   
+
 Indices and tables
 ==================
 
