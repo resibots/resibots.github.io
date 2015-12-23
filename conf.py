@@ -121,9 +121,11 @@ html_theme = 'sphinx_resibots_theme'
 html_theme_options = {
     "logo_only": True,
     "logo_url": "https://resibots.eu",
-    'breadcrumb_root': 'Limbo', # set a custom name to the breacumb root
+    'breadcrumb_root': 'Resibots', # set a custom name to the breacumb root
     'contact_url': 'mailto:jean-baptiste.mouret@inria.fr', # add a "Contact us link" at the bottom with URL
-    'toc_afters': [('Limbo', 'http://www.resilient-robots.net/limbo')],
+    'toc_afters': [('Limbo (BO library)', 'http://www.resilient-robots.net/limbo'),
+                    ('github page', 'http://github.com/resibots' )
+                  ],
 }
 
 

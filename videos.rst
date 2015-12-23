@@ -1,4 +1,3 @@
-
 Videos
 =========
 
@@ -22,3 +21,19 @@ Full citation: Cully A, Clune J, Tarapore DT, Mouret J-B. Robots that can adapt 
 Supplementary Video S2 for "Robots that can adapt like animals" (Cully, Clune, Tarapore and Mouret, Nature, 2015).
 
 In the behavior-performance map creation step, the MAP-Elites algorithm produces a collection of different types of walking gaits. The video shows several examples of the different types of behaviors that are produced, from classic hexapod gaits to more unexpected forms of locomotion.
+
+
+The Creadapt Robot (6-legged hybrid)
+-------------------------------------
+
+.. raw:: html
+
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uIPErWYq1TI" frameborder="0" allowfullscreen></iframe></center>
+
+
+Hexapod robot
+---------------
+
+.. raw:: html
+
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8aBxqRwwvjk" frameborder="0" allowfullscreen></iframe></center>
