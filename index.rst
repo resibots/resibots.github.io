@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Resibots - ERC Starting Grant (May 2015 -- April 2020)
+Resibots - ERC Starting Grant
 ======================================================
+
+Principal Investigator: `Jean-Baptiste Mouret <http://pages.isir.upmc.fr/~mouret/>`_
+
+Period: 2015-2020 (May)
 
 Despite over 50 years of research in robotics, most existing robots are far from being as resilient as the simplest animals: they are fragile machines that easily stop functioning in difficult conditions.
 
@@ -21,7 +25,8 @@ Contents:
    :maxdepth: 2
 
    videos
-
+   faq
+   
 Indices and tables
 ==================
 
