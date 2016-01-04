@@ -30,6 +30,7 @@ Contents
    :maxdepth: 2
 
    videos
+   photos
    publications
    faq
    team
