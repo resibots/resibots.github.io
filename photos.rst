@@ -5,7 +5,7 @@ Check also the :doc:`videos`.
 
 Robots
 --------
-*Click on the image to see it bigger.
+Click on each image to see it bigger.
 
 6-legged robot
 ^^^^^^^^^^^^^^
