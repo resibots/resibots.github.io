@@ -54,8 +54,7 @@ Dorian Goepp
 
 Alumni
 ----------
-- **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student /
-Université Jean Monnet - University of Alicante
+- **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student / Université Jean Monnet - University of Alicante
 
 Other collaborators
 -------------------

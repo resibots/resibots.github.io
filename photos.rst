@@ -1,7 +1,30 @@
-Robots & Lab (photos)
+Lab & Robots (photos)
 =====================
 
 Check also the :doc:`videos`.
+
+
+The lab @ Inria Nancy
+----------------------
+
+.. image:: pics/low_res/c104_full.jpg
+  :alt: room C104 (experimental room)
+  :target: ../_images/high_res/c104_full.jpg
+
+
+.. image:: pics/low_res/optitrack.jpg
+  :alt: optitrack system
+  :target: ../_images/high_res/optitrack.jpg
+
+
+Our main experimental room contains a 5.5 x 6 m experimental 'arena' made with aluminium trusses. It is equipped with:
+
+- a 6D motion capture system (Optitrack), with 8 gibagit cameras (Prime 13);
+- 4 high-power, studio lights;
+- 3 mobile 19'' racks (on wheels), which host the power supplies and the computers to control the robots;
+
+The trusses support the motion capture system and the lights, and hold all the cables (network, 220V, etc.).
+
 
 Robots
 --------
@@ -40,23 +63,19 @@ Creadapt robot (wheel-leg hybrid)
 
 The Creadapt robot is wheel-leg hybrid robot that was developped in a previous project (ANR `Creadapt <http://www.creadapt.net>`_). It is bigger than our 6-legged robot, and it has many more ways to move (drive, walk, ...).
 
-The lab @ Inria Nancy
-----------------------
-
-.. image:: pics/low_res/c104_full.jpg
-  :alt: room C104 (experimental room)
-  :target: ../_images/high_res/c104_full.jpg
+Kuka YouBot + Versaball
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. image:: pics/low_res/optitrack.jpg
-  :alt: optitrack system
-  :target: ../_images/high_res/optitrack.jpg
+.. image:: pics/youbot.jpg
+  :alt: icub
 
+The YouBot is an omnidirectionnal robot manufactured by Kuka. We are modifying it to use the Versaball gripper (Empire Robotics).
 
-Our main experimental room contains a 5.5 x 6 m experimental 'arena' made with aluminium trusses. It is equipped with:
+iCub
+^^^^^
 
-- a 6D motion capture system (Optitrack), with 8 gibagit cameras (Prime 13);
-- 4 high-power, studio lights;
-- 3 mobile 19'' racks (on wheels), which host the power supplies and the computers to control the robots;
+.. image:: pics/icubcrawl.jpg
+  :alt: icub
 
-The trusses support the motion capture system and the lights, and hold all the cables (network, 220V, etc.).
+iCub is a child-like humanoid robot with 54 actuated degrees of freedom, force torque sensors, and a sensitive skin. We use it to test our algorithms for 4-legged crawling and 2-legged walking.
