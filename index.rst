@@ -28,7 +28,9 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Project's website
 
+   self
    videos
    photos
    publications
