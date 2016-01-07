@@ -27,15 +27,18 @@ Contents
 ^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Project's website
+  :hidden:
+  :caption: Project's website
 
-   self
-   videos
-   photos
-   publications
-   faq
-   team
+.. toctree::
+  :maxdepth: 2
+
+  self
+  videos
+  photos
+  publications
+  faq
+  team
 
 .. Indices and tables
 .. ==================

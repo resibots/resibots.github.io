@@ -1,4 +1,4 @@
-FAQ
+Frequently Asked Questions
 ======================================================
 
 What are the potential applications of this work?
