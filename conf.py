@@ -124,7 +124,7 @@ html_theme_options = {
     'breadcrumb_root': 'Resibots', # set a custom name to the breacumb root
     'contact_url': 'mailto:jean-baptiste.mouret@inria.fr', # add a "Contact us link" at the bottom with URL
     'toc_afters': [('Limbo (BO library)', 'http://www.resilient-robots.net/limbo'),
-                    ('github page', 'http://github.com/resibots' )
+                    ('github', 'http://github.com/resibots' )
                   ],
 }
 
