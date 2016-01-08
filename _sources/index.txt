@@ -23,14 +23,14 @@ The current approach to fault tolerance is inherited from safety-critical system
 It is here contended that trial-and-error learning algorithms provide an alternative approach that does not require diagnosis, nor pre-defined contingency plans. In this project, we will develop and study a novel family of such learning algorithms that make it possible for autonomous robots to quickly discover compensatory behaviors. We will thus shed a new light on one of the most fundamental questions of robotics: how can a robot be as adaptive as an animal? The techniques developed in this project will substantially increase the lifespan of robots without increasing their cost and open new research avenues for adaptive machines.
 
 
-Contents
-^^^^^^^^^^
+.. The following links integrates files of the website and shows them in the sidebar
 
 .. toctree::
   :hidden:
   :caption: Project's website
 
 .. toctree::
+  :hidden:
   :maxdepth: 2
 
   self
