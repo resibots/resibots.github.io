@@ -1,5 +1,5 @@
-Contact information
-===================
+Contact
+=======
 
 Jean-Baptiste Mouret
 --------------------
