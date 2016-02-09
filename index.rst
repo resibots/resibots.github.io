@@ -39,6 +39,7 @@ It is here contended that trial-and-error learning algorithms provide an alterna
   publications
   faq
   team
+  contact
 
 .. Indices and tables
 .. ==================
