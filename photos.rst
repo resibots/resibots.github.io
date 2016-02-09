@@ -9,13 +9,13 @@ The lab @ Inria Nancy
 
 .. image:: pics/low_res/c104_full.jpg
   :alt: room C104 (experimental room)
-  :target: _static/high_res/c104_full.jpg
+  :target: _static/mid_res/c104_full.jpg
   :align: center
 
 
 .. image:: pics/low_res/optitrack.jpg
   :alt: optitrack system
-  :target: _static/high_res/optitrack.jpg
+  :target: _static/mid_res/optitrack.jpg
   :align: center
 
 
@@ -37,12 +37,12 @@ Click on each image to see it bigger.
 
 .. image:: pics/low_res/hexapod.jpg
    :alt: 6-legged robot
-   :target: _static/high_res/hexapod.jpg
+   :target: _static/mid_res/hexapod.jpg
    :align: center
 
 .. image:: pics/low_res/hexapod_arena.jpg
   :alt: 6-legged robot
-  :target: _static/high_res/hexapod_arena.jpg
+  :target: _static/mid_res/hexapod_arena.jpg
   :align: center
 
 The last version of our 6-legged robot, which was featured on the cover of Nature (see :doc:`publications`). Videos are available on the :doc:`videos` page. This 6-legged robot is made with 18 MX-28 dynamixel actuators, a Xsens Mti-30 IMU, and a Asus x-tion (RGB-D sensor / Kinect). The silver spheres on top of the x-tion are for the motion tracking.
@@ -55,17 +55,17 @@ Creadapt robot (wheel-leg hybrid)
 
 .. image:: pics/low_res/other_robots.jpg
    :alt: 6-legged robot
-   :target: _static/high_res/other_robots.jpg
+   :target: _static/mid_res/other_robots.jpg
    :align: center
 
 .. image:: pics/low_res/creadapt_body2.jpg
   :alt: 6-legged robot
-  :target: _static/high_res/creadapt_body2.jpg
+  :target: _static/mid_res/creadapt_body2.jpg
   :align: center
 
 .. image:: pics/low_res/creadapt_isir.jpg
   :alt: 6-legged robot
-  :target: _static/high_res/creadapt_isir.jpg
+  :target: _static/mid_res/creadapt_isir.jpg
   :align: center
 
 The Creadapt robot is wheel-leg hybrid robot that was developped in a previous project (ANR `Creadapt <http://www.creadapt.net>`_). It is bigger than our 6-legged robot, and it has many more ways to move (drive, walk, ...).
@@ -74,8 +74,9 @@ Kuka YouBot + Versaball
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. image:: pics/youbot.jpg
-  :alt: icub
+.. image:: pics/low_res/omnigrasper.jpg
+  :alt: Omnigrasper
+  :target: _static/mid_res/omnigrasper.jpg
   :align: center
 
 The YouBot is an omnidirectionnal robot manufactured by Kuka. We are modifying it to use the Versaball gripper (Empire Robotics).
