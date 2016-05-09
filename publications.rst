@@ -19,4 +19,4 @@ Highlights
 Others
 -------
 
-See `JB Mouret's webpage <http://pages.isir.upmc.fr/~mouret/website/publications.xhtml>`_.
+See `JB Mouret's webpage <http://members.loria.fr/JBMouret/publications.html>`_.
