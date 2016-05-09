@@ -38,6 +38,7 @@ It is here contended that trial-and-error learning algorithms provide an alterna
   photos
   publications
   faq
+  positions
   team
   contact
 
