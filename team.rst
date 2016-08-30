@@ -46,7 +46,16 @@ Konstantinos Chatzilygeroudis
 
 Dorian Goepp
 ^^^^^^^^^^^^^^^^^^^^^^^^
+-.. image:: pics/dgoepp.jpg
+   :width: 100 px
+   :alt: Dorian Goepp
+   :align: left
+
 - Robotics Engineer
+
+  |
+  |
+  |
 
 Current Master Students
 ^^^^^^^^^^^^^^^^^^^^^^^^
