@@ -68,7 +68,7 @@ Creadapt robot (wheel-leg hybrid)
   :target: _static/mid_res/creadapt_isir.jpg
   :align: center
 
-The Creadapt robot is wheel-leg hybrid robot that was developped in a previous project (ANR `Creadapt <http://www.creadapt.net>`_). It is bigger than our 6-legged robot, and it has many more ways to move (drive, walk, ...).
+The Creadapt robot is wheel-leg hybrid robot that was developped in a previous project (ANR `Creadapt <https://members.loria.fr/JBMouret/creadapt.html>`_). It is bigger than our 6-legged robot, and it has many more ways to move (drive, walk, ...).
 
 Kuka YouBot + Versaball
 ^^^^^^^^^^^^^^^^^^^^^^^^^
