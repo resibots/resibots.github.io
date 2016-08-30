@@ -13,6 +13,7 @@ The Intelligent Trial and Error Algorithm introduced in the paper 'Robots that c
 A six-legged robot adapts to keep walking even if two of its legs are broken, and a robotic arm learns how to correctly place an object even with several broken motors.
 
 Full citation: Cully A, Clune J, Tarapore DT, Mouret J-B. Robots that can adapt like animals. Nature, 2015. 521.7553, (cover article).
+`[pdf] <https://hal.archives-ouvertes.fr/hal-01158243/file/bomean_arxiv_final.pdf>`_
 
 .. raw:: html
 
@@ -23,12 +24,25 @@ Supplementary Video S2 for "Robots that can adapt like animals" (Cully, Clune, T
 In the behavior-performance map creation step, the MAP-Elites algorithm produces a collection of different types of walking gaits. The video shows several examples of the different types of behaviors that are produced, from classic hexapod gaits to more unexpected forms of locomotion.
 
 
+Semi-episodic learning
+-----------------------
+Preliminary results.
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Gpf5h07pJFA" frameborder="0" allowfullscreen></iframe>
+
+
+
 The Creadapt Robot (6-legged hybrid)
 -------------------------------------
 
 .. raw:: html
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uIPErWYq1TI" frameborder="0" allowfullscreen></iframe></center>
+
+
+Reference: J.-M Jehanno, A. Cully, C. Grand, J.-B Mouret (2014). Design of a Wheel-Legged Hexapod Robot for Creative Adaptation. CLAWAR 17th International Conference on Climbing and Walking Robots. 267-276. `[pdf] <https://hal.archives-ouvertes.fr/hal-01300701/file/2014ACTI3079.pdf>`_
 
 
 Hexapod robot
