@@ -19,7 +19,7 @@ Highlights
 Preprints
 ---------
 - Chatzilygeroudis K, Vassiliades V, and Mouret, JB (2016). *Reset-free Trial-and-Error Learning for Data-Efficient Robot Damage Recovery.* arXiv preprint arXiv:1610.04213. [`pdf <https://arxiv.org/pdf/1610.04213v1>`_]
-- Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343v1>`_][`github <http://www.github.com/limbo>`_]
+- Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343v1>`_][`github <http://www.github.com/resibots/limbo>`_]
 - Vassiliades, Vassilis, Konstantinos Chatzilygeroudis, and Jean-Baptiste Mouret. *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* arXiv preprint arXiv:1610.05729 (2016). [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
 
 
