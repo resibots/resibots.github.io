@@ -64,7 +64,7 @@ Current Master Students
 
 Alumni
 ----------
-- [2016] **Vaios Papaspyros** / Univ. of Patras (Greece)
+- [2016 / master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
 - [2016 / L3] **Jules Kozolinsky** / ENS Cachan
 - [2016 / master student] **Federico Allocati** / Argentina
 - [2015 / master student] **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student / Université Jean Monnet - University of Alicante
