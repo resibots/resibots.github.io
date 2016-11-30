@@ -26,7 +26,7 @@ Vassilis Vassiliades
    :align: left
 
 - Post-doc
-- [`Personnal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_]
+- [`Personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_]
 
   |
   |
@@ -59,12 +59,12 @@ Dorian Goepp
 
 Current Master Students
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- **Vaios Papaspyros** / Univ. of Patras (Greece)
 - **Roberto Rama** / Argentina
 
 
 Alumni
 ----------
+- [2016 / master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
 - [2016 / L3] **Jules Kozolinsky** / ENS Cachan
 - [2016 / master student] **Federico Allocati** / Argentina
 - [2015 / master student] **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student / Université Jean Monnet - University of Alicante
