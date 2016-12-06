@@ -29,7 +29,7 @@ Conferences
 
 Workshops
 ---------
-- Papaspyros V, Chatzilygeroudis K, Vassiliades V, Mouret JB (2016). *Safety-Aware Robot Damage Recovery Using Constrained Bayesian Optimization and Simulated Priors. Proc. Of the NIPS 2016 workshop on Bayesian Optimization*. [`pdf <https://arxiv.org/pdf/1611.09419v1>`_][`video <https://www.youtube.com/watch?v=8esrj-7WhsQ&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=5>`_]
+- Papaspyros V, Chatzilygeroudis K, Vassiliades V, Mouret JB (2016). *Safety-Aware Robot Damage Recovery Using Constrained Bayesian Optimization and Simulated Priors. Proc. Of the NIPS 2016 workshop on Bayesian Optimization*. [`pdf <https://arxiv.org/pdf/1611.09419v3>`_][`video <https://www.youtube.com/watch?v=8esrj-7WhsQ&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=5>`_]
 
 - Chatzilygeroudis, K, Cully, A and Mouret, JB (2016). *Towards semi-episodic learning for robot damage recovery*. Workshop on AI for Long-Term Autonomy at the IEEE International Conference on Robotics and Automation 2016. [`pdf <https://arxiv.org/pdf/1610.01407v1>`_][`video <https://www.youtube.com/watch?v=Gpf5h07pJFA&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=4>`_]
 
