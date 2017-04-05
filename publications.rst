@@ -10,7 +10,7 @@ Highlights
    :alt: Nature's cover
    :align: right
 
-**Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article)**
+**Cully A., Clune J., Tarapore D., and Mouret JB. (2015) Robots that can adapt like animals.* Nature. 521.7553, (cover article)**
 
 - **Paper:** `Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_ | `HTML + PDF on Nature.com <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_
 - **Source code:** `[github] <https://github.com/resibots/cully_2015_nature>`_
