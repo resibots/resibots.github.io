@@ -23,9 +23,14 @@ Preprints
 - Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343>`_][`github <http://www.github.com/resibots/limbo>`_]
 - Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2016). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* arXiv preprint arXiv:1610.05729 (2016). [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
 
+Journals
+---------
+- Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article). `[Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>]`_ | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | `[Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>]`_.
+
 
 Conferences
 -------------
+- Gaier, A., Asteroth, A., and Mouret JB. (2017) *Feature Space Modeling Through Surrogate Illumination.* In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://arxiv.org/abs/1702.03713>`_]
 - Tarapore D., Clune J., Cully A., and Mouret JB. (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://hal.inria.fr/hal-01302658/document>`_][`github <https://github.com/resibots/tarapore_2016_gecco>`_]
 
 Workshops
