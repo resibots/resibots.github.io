@@ -28,8 +28,7 @@ Preprints
 Journals
 ---------
 
-- Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article). 
-[`Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_] | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | [`Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>`_].
+- Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article).[`Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_] | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | [`Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>`_].
 
 
 Conferences
