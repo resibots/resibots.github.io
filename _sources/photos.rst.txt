@@ -89,6 +89,16 @@ Kuka YouBot + Versaball
 
 The YouBot is an omnidirectionnal robot manufactured by Kuka. We are modifying it to use the Versaball gripper (Empire Robotics).
 
+Omnipointer
+^^^^^^^^^^^
+
+.. image:: pics/low_res/omnipointer_alone.jpg
+  :alt: simple 4-dof robotic arm
+  :target: _static/high_res/omnipointer_alone.jpg
+  :align: center
+
+Omnipointer is a simple, low-cost robotic arm with four degrees-of-freedom. It is used for experiments that do not require the higher accuracy of the arm mounted on the YouBot.
+
 iCub
 ^^^^^
 
