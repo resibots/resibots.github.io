@@ -49,6 +49,14 @@ The last version of our 6-legged robot, which was featured on the cover of Natur
 
 This robot is a demonstrator and a testbed for our adaptation algorithms. It has no direct intended application, but the *algorithms* that we test with it have appplications.
 
+Hexaforce robot
+^^^^^^^^^^^^^^^
+
+.. image:: pics/low_res/hexaforce_aggressive.jpg
+  :alt: 6-legged robot
+  :target: _static/high_res/hexaforce_aggressive.jpg
+  :align: center
+
 
 Creadapt robot (wheel-leg hybrid)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
