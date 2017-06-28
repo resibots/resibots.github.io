@@ -34,7 +34,7 @@ Peer-reviewed Conferences
 --------------------------
 - Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). *Black-Box Data-efficient Policy Search for Robotics.* In Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_]
 - Gaier, A., Asteroth, A., and Mouret JB *Aerodynamic Design Exploration through Surrogate-Assisted Illumination*. In : 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference. 2017. **Best student paper**
-- Gaier, A., Asteroth, A., and Mouret JB. (2017) *Feature Space Modeling Through Surrogate Illumination.* In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://arxiv.org/abs/1702.03713>`_]
+- Gaier, A., Asteroth, A., and Mouret JB. (2017) *Data-Efficient Exploration, Optimization, and Modeling of Diverse Designs through Surrogate-Assisted Illumination*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://arxiv.org/abs/1702.03713>`_]
 - Tarapore D., Clune J., Cully A., and Mouret JB. (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://hal.inria.fr/hal-01302658/document>`_][`github <https://github.com/resibots/tarapore_2016_gecco>`_]
 
 Workshops and minimally-reviewed conferences
