@@ -21,13 +21,12 @@ Preprints
 
 - Chatzilygeroudis K., Vassiliades V., and Mouret JB. (2016). *Reset-free Trial-and-Error Learning for Data-Efficient Robot Damage Recovery.* arXiv preprint arXiv:1610.04213. [`pdf <https://arxiv.org/pdf/1610.04213>`_]
 - Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343>`_][`github <http://www.github.com/resibots/limbo>`_]
-- Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2016). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* arXiv preprint arXiv:1610.05729 (2016). [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
 
 
 Journals
 ---------
-- Vassiliades, V., Chatzilygeroudis, K. and Mouret, J.-B (2017). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations*.
-IEEE Transactions on Evolutionary Computation. To appear. [`pdf <https://arxiv.org/pdf/1610.05729>`_][`code <https://github.com/resibots/vassiliades_2017_cvt_map_elites>`_]
+
+- Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2016). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* IEEE Transactions on Evolutionary Computation.. [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
 - Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article).[`Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_] | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | [`Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>`_].
 
 
