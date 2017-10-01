@@ -40,9 +40,15 @@ Peer-reviewed conferences
 - Gaier, A., Asteroth, A., and Mouret JB. (2017) *Feature Space Modeling Through Surrogate Illumination.* In Proc. of Genetic and Evolutionary Computation Conference (GECCO). **Best paper of the GDS track** [`pdf <https://arxiv.org/abs/1702.03713>`_]
 - Tarapore D., Clune J., Cully A., and Mouret JB. (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://hal.inria.fr/hal-01302658/document>`_][`github <https://github.com/resibots/tarapore_2016_gecco>`_]
 
-Workshops and minimally reviewed papers
-----------------------------------------
-- J.-B Mouret (2016). Micro-Data Learning: The Other End of the Spectrum. ERCIM News. (107) 2. ERCIM. [`pdf <https://hal.inria.fr/hal-01374786/document>`_]
+
+Position papers
+----------------
+- Mouret, JB. "Micro-Data Learning: The Other End of the Spectrum." ERCIM News 107 (2016): 2. [`pdf <https://hal.inria.fr/hal-01374786/file/ercim_mouret.pdf>`_]
+
+Workshops and minimally-reviewed publications
+---------------------------------------------
+- Vassiliades, V., Chatzilygeroudis, K. and Mouret. JB. "A comparison of illumination algorithms in unbounded spaces." Workshop" Measuring and Promoting Diversity in Evolutionary Algorithms", Genetic and Evolutionary Computation Conference. 2017. [`pdf <https://hal.inria.fr/hal-01518814/document>`_]
+- Mouret, JB, and Chatzilygeroudis, K. "20 Years of Reality Gap: a few Thoughts about Simulators in Evolutionary Robotics." Workshop" Simulation in Evolutionary Robotics", Genetic and Evolutionary Computation Conference. 2017. [`pdf <https://hal.inria.fr/hal-01518764/document>`_]
 - Papaspyros V., Chatzilygeroudis K., Vassiliades V., and Mouret JB. (2016). *Safety-Aware Robot Damage Recovery Using Constrained Bayesian Optimization and Simulated Priors. Proc. Of the NIPS 2016 workshop on Bayesian Optimization*. [`pdf <https://arxiv.org/pdf/1611.09419v3>`_][`video <https://www.youtube.com/watch?v=8esrj-7WhsQ&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=5>`_]
 - Chatzilygeroudis K., Cully A., and Mouret JB. (2016). *Towards semi-episodic learning for robot damage recovery*. Workshop on AI for Long-Term Autonomy at the IEEE International Conference on Robotics and Automation 2016. [`pdf <https://arxiv.org/pdf/1610.01407v1>`_][`video <https://www.youtube.com/watch?v=Gpf5h07pJFA&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=4>`_]
 

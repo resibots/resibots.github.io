@@ -49,6 +49,14 @@ The last version of our 6-legged robot, which was featured on the cover of Natur
 
 This robot is a demonstrator and a testbed for our adaptation algorithms. It has no direct intended application, but the *algorithms* that we test with it have appplications.
 
+Hexaforce robot
+^^^^^^^^^^^^^^^
+
+.. image:: pics/low_res/hexaforce_aggressive.jpg
+  :alt: 6-legged robot
+  :target: _static/high_res/hexaforce_aggressive.jpg
+  :align: center
+
 
 Creadapt robot (wheel-leg hybrid)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -80,6 +88,16 @@ Kuka YouBot + Versaball
   :align: center
 
 The YouBot is an omnidirectionnal robot manufactured by Kuka. We are modifying it to use the Versaball gripper (Empire Robotics).
+
+Omnipointer
+^^^^^^^^^^^
+
+.. image:: pics/low_res/omnipointer_alone.jpg
+  :alt: simple 4-dof robotic arm
+  :target: _static/high_res/omnipointer_alone.jpg
+  :align: center
+
+Omnipointer is a simple, low-cost robotic arm with four degrees-of-freedom. It is used for experiments that do not require the higher accuracy of the arm mounted on the YouBot.
 
 iCub
 ^^^^^
