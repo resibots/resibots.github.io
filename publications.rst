@@ -33,7 +33,7 @@ Journals
 Peer-reviewed conferences
 --------------------------
 - Spitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>`_ | `video <https://youtu.be/InQ0YUBmuNw>`_ ]
-- Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_][`github  <https://github.com/resibots/blackdrops>`_]
+- Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_][`github  <https://github.com/resibots/blackdrops>`_]
 - Gaier, A., Asteroth, A., and Mouret J.-B. (2017). *Aerodynamic Design Exploration through Surrogate-Assisted Illumination*. 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference. **best student paper** [`pdf <https://hal.inria.fr/hal-01518786/document>`_]
 - Gaier, A., Asteroth, A., and Mouret JB. (2017) *Feature Space Modeling Through Surrogate Illumination.* In Proc. of Genetic and Evolutionary Computation Conference (GECCO). **Best paper of the GDS track** [`pdf <https://arxiv.org/abs/1702.03713>`_]
 - Tarapore D., Clune J., Cully A., and Mouret JB. (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://hal.inria.fr/hal-01302658/document>`_][`github <https://github.com/resibots/tarapore_2016_gecco>`_]
