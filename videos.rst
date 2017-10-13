@@ -18,7 +18,7 @@ Black-box Data-efficient Policy Search for Robotics (Black-DROPS) (IEEE IROS 201
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/kTEyYiIFGPM" frameborder="0" allowfullscreen></iframe></center><br><br>
  
-Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret J-B. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS. [ `pdf <https://arxiv.org/pdf/1703.07261>`_] [`github (source code) <https://github.com/resibots/blackdrops>`_]
+Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret J-B. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_] [`github (source code) <https://github.com/resibots/blackdrops>`_]
 
 
 Robots that can adapt like animals (Nature, 2015)
