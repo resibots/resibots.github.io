@@ -8,8 +8,7 @@ Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control (
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/InQ0YUBmuNw" frameborder="0" allowfullscreen></iframe></center><br><br>
   
-S
-pitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>`_]
+Spitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>`_]
 
 
 Black-box Data-efficient Policy Search for Robotics (Black-DROPS) (IEEE IROS 2017)
