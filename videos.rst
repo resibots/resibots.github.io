@@ -1,8 +1,9 @@
 Videos
 =========
 
-Robots that can adapt like animals (Nature, 2015)
---------------------------------------------------
+Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control (IEEE Humanoids 2017)
+-----------------------------------------------------------------------------------------------------
+
 .. raw:: html
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/InQ0YUBmuNw" frameborder="0" allowfullscreen></iframe></center>
@@ -10,12 +11,19 @@ Robots that can adapt like animals (Nature, 2015)
 Spitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>_`]
 
 
+Black-box Data-efficient Policy Search for Robotics (Black-DROPS). (IEEE IROS 2017)
+-------------------------------------------------------------------------------------
+
 .. raw:: html
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/kTEyYiIFGPM" frameborder="0" allowfullscreen></iframe></center>
  
  Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_][`github  <https://github.com/resibots/blackdrops>`_]
   
+
+
+Robots that can adapt like animals (Nature, 2015)
+--------------------------------------------------
 
 .. raw:: html
 
