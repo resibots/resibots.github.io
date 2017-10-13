@@ -6,9 +6,9 @@ Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control (
 
 .. raw:: html
 
-  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/InQ0YUBmuNw" frameborder="0" allowfullscreen></iframe></center>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/InQ0YUBmuNw" frameborder="0" allowfullscreen></iframe></center><br><br>
   
-Spitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>_`]
+Spitz J, Bouyarmane K, Ivaldi S, Mouret J.-B. (2017) Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>`_]
 
 
 Black-box Data-efficient Policy Search for Robotics (Black-DROPS). (IEEE IROS 2017)
@@ -16,9 +16,12 @@ Black-box Data-efficient Policy Search for Robotics (Black-DROPS). (IEEE IROS 20
 
 .. raw:: html
 
-  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/kTEyYiIFGPM" frameborder="0" allowfullscreen></iframe></center>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/kTEyYiIFGPM" frameborder="0" allowfullscreen></iframe></center><br><br>
  
- Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_][`github  <https://github.com/resibots/blackdrops>`_]
+ 
+ 
+ 
+ Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). Black-box Data-efficient Policy Search for Robotics. Proc. of IEEE IROS.  [ `pdf <https://arxiv.org/pdf/1703.07261>`_] [`github (source code) <https://github.com/resibots/blackdrops>`_]
   
 
 
