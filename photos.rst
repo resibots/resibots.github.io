@@ -40,11 +40,6 @@ Click on each image to see it bigger.
    :target: _static/mid_res/hexapod.jpg
    :align: center
 
-.. image:: pics/low_res/hexapod_arena.jpg
-  :alt: 6-legged robot
-  :target: _static/mid_res/hexapod_arena.jpg
-  :align: center
-
 The last version of our 6-legged robot, which was featured on the cover of Nature (see :doc:`publications`). Videos are available on the :doc:`videos` page. This 6-legged robot is made with 18 MX-28 dynamixel actuators, a Xsens Mti-30 IMU, and a Asus x-tion (RGB-D sensor / Kinect). The silver spheres on top of the x-tion are for the motion tracking.
 
 This robot is a demonstrator and a testbed for our adaptation algorithms. It has no direct intended application, but the *algorithms* that we test with it have appplications.
