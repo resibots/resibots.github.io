@@ -18,7 +18,7 @@ Highlights
 
 Preprints
 ---------
-- Chatzilygeroudis K., and Mouret JB., (2017). *Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics.* arXiv preprint arXiv:1709.06917 . [`pdf <https://arxiv.org/pdf/1709.06917>`_ | `video <https://youtu.be/HFkZkhGGzTo>`_]
+- Chatzilygeroudis K., and Mouret JB., (2017). *Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics.* arXiv preprint arXiv:1709.06917 . [`pdf <https://arxiv.org/pdf/1709.06917>`_ | `video <https://youtu.be/HFkZkhGGzTo>`_][`github  <https://github.com/resibots/blackdrops>`_]
 - Pautrat R., Chatzilygeroudis K., and Mouret JB., (2017). *Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search.* arXiv preprint arXiv:1709.06919. [`pdf <https://arxiv.org/pdf/1709.06919>`_ | `video <https://youtu.be/xo8mUIZTvNE>`_][`github <https://github.com/resibots/pautrat_2018_mlei>`_] -- *A short version of this paper was presented at the 1st Conference on Robot Learning (CoRL) 2017*.
 - Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343>`_][`github <http://www.github.com/resibots/limbo>`_]
 
@@ -26,7 +26,7 @@ Preprints
 Journals
 ---------
 
-- Chatzilygeroudis K., Vassiliades V., and Mouret JB. (2017). *Reset-free Trial-and-Error Learning for Robot Damage Recovery.* Robotics and Autonomous Systems. [`pdf <https://arxiv.org/pdf/1610.04213>`_ | `video <https://www.youtube.com/watch?v=IqtyHFrb3BU>`_] [`url <http://www.sciencedirect.com/science/article/pii/S0921889017302440>`_]
+- Chatzilygeroudis K., Vassiliades V., and Mouret JB. (2017). *Reset-free Trial-and-Error Learning for Robot Damage Recovery.* Robotics and Autonomous Systems. [`pdf <https://arxiv.org/pdf/1610.04213>`_ | `video <https://www.youtube.com/watch?v=IqtyHFrb3BU>`_] [`url <http://www.sciencedirect.com/science/article/pii/S0921889017302440>`_][`github <https://github.com/resibots/chatzilygeroudis_2018_rte>`_]
 - Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2016). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* IEEE Transactions on Evolutionary Computation.. [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
 - Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article).[`Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_] | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | [`Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>`_].
 
