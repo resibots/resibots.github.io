@@ -18,27 +18,45 @@ Highlights
 
 Preprints
 ---------
-- Chatzilygeroudis K., and Mouret JB., (2017). *Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics.* arXiv preprint arXiv:1709.06917 . [`pdf <https://arxiv.org/pdf/1709.06917>`_ | `video <https://youtu.be/HFkZkhGGzTo>`_][`github  <https://github.com/resibots/blackdrops>`_]
-- Pautrat R., Chatzilygeroudis K., and Mouret JB., (2017). *Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search.* arXiv preprint arXiv:1709.06919. [`pdf <https://arxiv.org/pdf/1709.06919>`_ | `video <https://youtu.be/xo8mUIZTvNE>`_][`github <https://github.com/resibots/pautrat_2018_mlei>`_] -- *A short version of this paper was presented at the 1st Conference on Robot Learning (CoRL) 2017*.
+
+- J.-B Mouret, J. Clune (2015). *Illuminating search spaces by mapping elites.* arXiv preprint. `[url] <http://arxiv.org/abs/1504.04909>`_
 - Cully A., Chatzilygeroudis K., Allocati F., and Mouret JB., (2016). *Limbo: A Fast and Flexible Library for Bayesian Optimization.* arXiv preprint arXiv:1611.07343. [`pdf <https://arxiv.org/pdf/1611.07343>`_][`github <http://www.github.com/resibots/limbo>`_]
 
 
 Journals
 ---------
 
-- Chatzilygeroudis K., Vassiliades V., and Mouret JB. (2017). *Reset-free Trial-and-Error Learning for Robot Damage Recovery.* Robotics and Autonomous Systems. [`pdf <https://arxiv.org/pdf/1610.04213>`_ | `video <https://www.youtube.com/watch?v=IqtyHFrb3BU>`_] [`url <http://www.sciencedirect.com/science/article/pii/S0921889017302440>`_][`github <https://github.com/resibots/chatzilygeroudis_2018_rte>`_]
-- Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2016). *Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations.* IEEE Transactions on Evolutionary Computation.. [`pdf <https://arxiv.org/pdf/1610.05729.pdf>`_] [`sferes module <https://github.com/sferes2/cvt_map_elites>`_ | `experiments <https://github.com/resibots/vassiliades_2016_cvt_map_elites>`_]
-- Cully A., Clune J., Tarapore D., and Mouret JB. (2015) *Robots that can adapt like animals.* Nature. 521.7553, (cover article).[`Author-generated, pre-review paper (with supplementaries) <http://www.isir.upmc.fr/files/2015ACLI3468.pdf>`_] | `[HTML + PDF on Nature.com] <http://www.nature.com/nature/journal/v521/n7553/full/nature14422.html>`_ |  `[github] <https://github.com/resibots/cully_2015_nature>`_ | [`Main video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_ / `Examples of behaviors found by MAP-Elites in simulation) <https://www.youtube.com/watch?v=IHQgnpSphEI>`_].
+- J\. Rieffel*, J\.-B Mouret* (2018). *Soft Tensegrity Robots.* Soft Robotics.  (* J. Rieffel and J.-B. Mouret contributed equallyto this work). [`pdf <https://arxiv.org/pdf/1702.03258>`_]  [`url <http://arxiv.org/abs/1702.03258>`_]  [`source code <https://github.com/resibots/rieffel_mouret_2018_soft_tensegrity>`_]  [`video <https://www.youtube.com/watch?v=SuLQDhrk9tQ&feature=youtu.be>`_]
+
+- V\. Vassiliades, K\. Chatzilygeroudis, J\.-B Mouret (2017). *Using Centroidal Voronoi Tessellations to Scale Up the Multi-dimensional Archive of Phenotypic Elites Algorithm.* IEEE Transactions on Evolutionary Computation.  [`doi <http://dx.doi.org/10.1109/TEVC.2017.2735550>`_]  [`pdf <https://hal.inria.fr/hal-01630627/file/ieee_tec_voronoi_map_elites.pdf>`_]  [`url <http://ieeexplore.ieee.org/abstract/document/8000667/>`_]  [`source code <https://github.com/resibots/vassiliades_2017_cvt_map_elites>`_]
+
+- K\. Chatzilygeroudis, V\. Vassiliades, J\.-B Mouret (2017). *Reset-free Trial-and-Error Learning for Robot Damage Recovery.* Robotics and Autonomous Systems.  1-19. Elsevier. [`doi <http://dx.doi.org/10.1016/j.robot.2017.11.010>`_]  [`pdf <https://hal.inria.fr/hal-01654641/file/ral-2.pdf>`_]  [`url <https://www.sciencedirect.com/science/article/pii/S0921889017302440>`_]  [`source code <https://github.com/resibots/chatzilygeroudis_2018_rte>`_]  [`video <https://youtu.be/IqtyHFrb3BU>`_] 
+
+- A\. Cully, J\. Clune, D\. Tarapore, J\.-B Mouret (2015). *Robots that can adapt like animals.* Nature.  521. (7553) 503-507. Nature Publishing Group. [`doi <http://dx.doi.org/10.1038/nature14422>`_]  [`pdf <https://hal.archives-ouvertes.fr/hal-01158243/document>`_]  [`url <https://hal.archives-ouvertes.fr/hal-01158243>`_]  [`source code <https://github.com/resibots/cully_2015_nature>`_]  [`video <https://www.youtube.com/watch?v=T-c17RKh3uE>`_]  [`video <https://www.youtube.com/watch?v=IHQgnpSphEI>`_] 
 
 
 Peer-reviewed conferences
 --------------------------
-- Supratik P., Chatzilygeroudis K., Ciosek K., Mouret JB., Osborne M., and Whiteson Sh. (2018). *Alternating Optimisation and Quadrature for Robust Control*. Proc. of AAAI Conference on Artificial Intelligence. [`pdf <http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/paulaaai18.pdf>`_]
-- Spitz J., Bouyarmane K., Ivaldi S., and Mouret JB. (2017). *Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control*. Proc. of IEEE Humanoids. [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/document>`_ | `video <https://youtu.be/InQ0YUBmuNw>`_]
-- Chatzilygeroudis K., Rama R., Kaushik R., Goepp D., Vassiliades V., and Mouret JB. (2017). *Black-box Data-efficient Policy Search for Robotics.* Proc. of IEEE IROS. [`pdf <https://arxiv.org/pdf/1703.07261>`_ | `video <https://www.youtube.com/watch?v=kTEyYiIFGPM>`_][`github  <https://github.com/resibots/blackdrops>`_]
-- Gaier, A., Asteroth, A., and Mouret JB. (2017). *Aerodynamic Design Exploration through Surrogate-Assisted Illumination*. 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference. **Best student paper** [`pdf <https://hal.inria.fr/hal-01518786/document>`_]
-- Gaier, A., Asteroth, A., and Mouret JB. (2017) *Feature Space Modeling Through Surrogate Illumination.* In Proc. of Genetic and Evolutionary Computation Conference (GECCO). **Best paper of the GDS track** [`pdf <https://arxiv.org/abs/1702.03713>`_]
-- Tarapore D., Clune J., Cully A., and Mouret JB. (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?*. In Proc. of Genetic and Evolutionary Computation Conference (GECCO). [`pdf <https://hal.inria.fr/hal-01302658/document>`_][`github <https://github.com/resibots/tarapore_2016_gecco>`_]
+
+- S\. Paul, K\. Chatzilygeroudis, K\. Ciosek, J\.-B Mouret, M\. Osborne, S\. Whiteson (2018). *Alternating Optimisation and Quadrature for Robust Control.* AAAI 2018 - The Thirty-Second AAAI Conference on Artificial Intelligence  [`pdf <https://hal.inria.fr/hal-01644063/file/ALOQ_AAAI18_final.pdf>`_]  [`url <https://hal.inria.fr/hal-01644063>`_] 
+
+- R\. Pautrat, K\. Chatzilygeroudis, J\.-B Mouret (2018). *Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search.* IEEE International Conference on Robotics and Automation (ICRA)  [`pdf <https://arxiv.org/pdf/1709.06919.pdf>`_]  [`url <https://arxiv.org/abs/1709.06919>`_]  [`video <https://www.youtube.com/watch?v=iiVaV-U6Kqo>`_] 
+
+- K\. Chatzilygeroudis, J\.-B Mouret (2018). *Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics.* IEEE International Conference on Robotics and Automation (ICRA)  [`pdf <https://arxiv.org/pdf/1709.06917.pdf>`_]  [`url <https://arxiv.org/abs/1709.06917>`_]  [`video <https://www.youtube.com/watch?v=_MZYDhfWeLc>`_] 
+
+- V\. Vassiliades, J\.-B Mouret (2018). *Discovering the Elite Hypervolume by Leveraging Interspecies Correlation.* Proc. of GECCO  [`doi <http://dx.doi.org/10.1145/3205455.3205602>`_]  [`pdf <https://arxiv.org/pdf/1804.03906.pdf>`_]  [`url <https://arxiv.org/abs/1804.03906>`_] 
+
+- A\. Gaier, A\. Asteroth, J\.-B Mouret (2018). *Data-efficient Neuroevolution with Kernel-Based Surrogate Models.* Proc. of GECCO  [`doi <http://dx.doi.org/10.1145/3205455.3205510>`_]  [`pdf <https://hal.inria.fr/hal-01768248/file/1804.05364.pdf>`_]  [`url <https://arxiv.org/abs/1804.05364>`_] 
+
+- A\. Gaier, A\. Asteroth, J\.-B Mouret (2017). *Aerodynamic Design Exploration through Surrogate-Assisted Illumination.* 18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference (best student paper)  [`doi <http://dx.doi.org/10.2514/6.2017-3330>`_]  [`pdf <https://hal.inria.fr/hal-01518786/document>`_] 
+
+- A\. Gaier, A\. Asteroth, J\.-B Mouret (2017). *Data-Efficient Exploration, Optimization, and Modeling of Diverse Designs through Surrogate-Assisted Illumination.* Proc. of GECCO  [`doi <http://dx.doi.org/10.1145/3071178.3071282>`_]  [`pdf <https://hal.inria.fr/hal-01518698/file/sail2017.pdf>`_]  [`url <https://hal.inria.fr/hal-01518698>`_] 
+
+- K\. Chatzilygeroudis, R\. Rama, R\. Kaushik, D\. Goepp, V\. Vassiliades, J\.-B Mouret (2017). *Black-Box Data-efficient Policy Search for Robotics.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)  [`pdf <https://hal.inria.fr/hal-01576683/file/medrops-final.pdf>`_]  [`url <https://hal.inria.fr/hal-01576683>`_]  [`source code <https://github.com/resibots/blackdrops>`_]  [`video <https://www.youtube.com/watch?v=kTEyYiIFGPM>`_] 
+
+- J\. Spitz, K\. Bouyarmane, S\. Ivaldi, J\.-B Mouret (2017). *Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control.* Proc. of IEEE Humanoids  [`pdf <https://hal.archives-ouvertes.fr/hal-01569948/file/repulsors.pdf>`_]  [`url <https://hal.archives-ouvertes.fr/hal-01569948>`_]  [`video <https://www.youtube.com/watch?v=InQ0YUBmuNw>`_] 
+
+- D\. Tarapore, J\. Clune, A\. Cully, J\.-B Mouret (2016). *How Do Different Encodings Influence the Performance of the MAP-Elites Algorithm?.* Proc. of GECCO  ACM. [`doi <http://dx.doi.org/10.1145/2908812.2908875>`_]  [`pdf <https://hal.inria.fr/hal-01302658/document>`_]  [`url <https://hal.inria.fr/hal-01302658>`_]  [`source code <https://github.com/resibots/tarapore_2016_gecco>`_] 
 
 
 Position papers
