@@ -1,6 +1,45 @@
 Videos
 =========
 
+
+Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics (ICRA, 2018)
+----------------------------------------------------------------------------------------------------
+
+.. raw::html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_MZYDhfWeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+K\. Chatzilygeroudis, J\.-B Mouret (2018). *Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics.* IEEE International Conference on Robotics and Automation (ICRA)  [`pdf <https://arxiv.org/pdf/1709.06917.pdf>`_]  [`url <https://arxiv.org/abs/1709.06917>`_]  [`video <https://www.youtube.com/watch?v=_MZYDhfWeLc>`_] 
+
+Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search (ICRA, 2018)
+---------------------------------------------------------------------------------------------------------
+
+.. raw::html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iiVaV-U6Kqo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+R\. Pautrat, K\. Chatzilygeroudis, J\.-B Mouret (2018). *Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search.* IEEE International Conference on Robotics and Automation (ICRA)  [`pdf <https://arxiv.org/pdf/1709.06919.pdf>`_]  [`url <https://arxiv.org/abs/1709.06919>`_]  [`video <https://www.youtube.com/watch?v=iiVaV-U6Kqo>`_] 
+
+
+Adaptive and Resilient Soft Tensegrity Robots (Soft Robotics, 2018)
+--------------------------------------------------------------------
+
+.. raw::html
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SuLQDhrk9tQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+J\. Rieffel*, J\.-B Mouret* (2018). *Adaptive and Resilient Soft Tensegrity Robots* Soft Robotics.  (* J. Rieffel and J.-B. Mouret contributed equallyto this work). [`pdf <https://arxiv.org/pdf/1702.03258>`_]  [`url <http://arxiv.org/abs/1702.03258>`_]  [`source code <https://github.com/resibots/rieffel_mouret_2018_soft_tensegrity>`_]  [`video <https://www.youtube.com/watch?v=SuLQDhrk9tQ&feature=youtu.be>`_]
+
+
+Reset-free Trial-and-Error Learning for Robot Damage Recovery (Robotics and Autonomous Systems, 2017)
+------------------------------------------------------------------------------------------------------
+
+.. raw::html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IqtyHFrb3BU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+K\. Chatzilygeroudis, V\. Vassiliades, J\.-B Mouret (2017). *Reset-free Trial-and-Error Learning for Robot Damage Recovery.* Robotics and Autonomous Systems.  1-19. Elsevier. [`doi <http://dx.doi.org/10.1016/j.robot.2017.11.010>`_]  [`pdf <https://hal.inria.fr/hal-01654641/file/ral-2.pdf>`_]  [`url <https://www.sciencedirect.com/science/article/pii/S0921889017302440>`_]  [`source code <https://github.com/resibots/chatzilygeroudis_2018_rte>`_]  [`video <https://youtu.be/IqtyHFrb3BU>`_] 
+
 Trial-and-Error Learning of Repulsors for Humanoid QP-based Whole-Body Control (IEEE Humanoids 2017)
 -----------------------------------------------------------------------------------------------------
 
@@ -43,15 +82,6 @@ Full citation: Cully A, Clune J, Tarapore DT, Mouret J-B. Robots that can adapt 
 Supplementary Video S2 for "Robots that can adapt like animals" (Cully, Clune, Tarapore and Mouret, Nature, 2015).
 
 In the behavior-performance map creation step, the MAP-Elites algorithm produces a collection of different types of walking gaits. The video shows several examples of the different types of behaviors that are produced, from classic hexapod gaits to more unexpected forms of locomotion.
-
-
-Semi-episodic learning
------------------------
-Preliminary results.
-
-.. raw:: html
-
-  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gpf5h07pJFA" frameborder="0" allowfullscreen></iframe></center>
 
 
 
