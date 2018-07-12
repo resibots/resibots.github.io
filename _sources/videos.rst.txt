@@ -5,7 +5,7 @@ Videos
 Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics (ICRA, 2018)
 ----------------------------------------------------------------------------------------------------
 
-.. raw::html
+.. raw:: html
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_MZYDhfWeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -14,7 +14,7 @@ K\. Chatzilygeroudis, J\.-B Mouret (2018). *Using Parameterized Black-Box Priors
 Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search (ICRA, 2018)
 ---------------------------------------------------------------------------------------------------------
 
-.. raw::html
+.. raw:: html
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iiVaV-U6Kqo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -24,7 +24,7 @@ R\. Pautrat, K\. Chatzilygeroudis, J\.-B Mouret (2018). *Bayesian Optimization w
 Adaptive and Resilient Soft Tensegrity Robots (Soft Robotics, 2018)
 --------------------------------------------------------------------
 
-.. raw::html
+.. raw:: html
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SuLQDhrk9tQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -34,7 +34,7 @@ J\. Rieffel*, J\.-B Mouret* (2018). *Adaptive and Resilient Soft Tensegrity Robo
 Reset-free Trial-and-Error Learning for Robot Damage Recovery (Robotics and Autonomous Systems, 2017)
 ------------------------------------------------------------------------------------------------------
 
-.. raw::html
+.. raw:: html
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IqtyHFrb3BU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
