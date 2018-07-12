@@ -18,7 +18,8 @@ Highlights
 
 Preprints
 ---------
-
+- K\. Chatzilygeroudis, V\. Vassiliades, F\. Stulp, S\. Calinon, J\.-B\. Mouret (2018). *A survey on policy search algorithms for learning robot controllers in a handful of trials* `[url] <https://arxiv.org/abs/1807.02303>`_
+- R\. Kaushik, K\. Chatzilygeroudis, \.-B\. Mouret (2018). *Multi-objective Model-based Policy Search for Data-efficient Learning with Sparse Rewards.* `[url] <https://arxiv.org/abs/1806.09351>`_
 - J.-B Mouret, J. Clune (2015). *Illuminating search spaces by mapping elites.* arXiv preprint. `[url] <http://arxiv.org/abs/1504.04909>`_
 
 Journals
