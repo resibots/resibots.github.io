@@ -1,8 +1,8 @@
 Videos
 =========
 
-The ResiBots project - interview
---------------------------------
+The ResiBots project - interview with JB Mouret
+-----------------------------------------------
 
 .. raw:: html
 
