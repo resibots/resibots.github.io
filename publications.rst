@@ -25,8 +25,9 @@ Preprints
 
 Journals
 ---------
+- A\. Cully, K\. Chatzilygeroudis, F\. Allocati, J\.-B Mouret. *Limbo: A Flexible High-performance Library for Gaussian Processes modeling and Data-Efficient Optimization.* Journal of Open Source Software [`pdf<https://www.theoj.org/joss-papers/joss.00545/10.21105.joss.00545.pdf>`_] [`url <https://github.com/resibots/limbo>`_]
 
-- J\. Rieffel*, J\.-B Mouret* (2018). *Soft Tensegrity Robots.* Soft Robotics.  (* J. Rieffel and J.-B. Mouret contributed equallyto this work). [`pdf <https://arxiv.org/pdf/1702.03258>`_]  [`url <http://arxiv.org/abs/1702.03258>`_]  [`source code <https://github.com/resibots/rieffel_mouret_2018_soft_tensegrity>`_]  [`video <https://www.youtube.com/watch?v=SuLQDhrk9tQ&feature=youtu.be>`_]
+- J\. Rieffel*, J\.-B Mouret* (2018). *Adaptive and Resilient Soft Tensegrity Robots* Soft Robotics.  (* J. Rieffel and J.-B. Mouret contributed equallyto this work). [`pdf <https://arxiv.org/pdf/1702.03258>`_]  [`url <http://arxiv.org/abs/1702.03258>`_]  [`source code <https://github.com/resibots/rieffel_mouret_2018_soft_tensegrity>`_]  [`video <https://www.youtube.com/watch?v=SuLQDhrk9tQ&feature=youtu.be>`_]
 
 - V\. Vassiliades, K\. Chatzilygeroudis, J\.-B Mouret (2017). *Using Centroidal Voronoi Tessellations to Scale Up the Multi-dimensional Archive of Phenotypic Elites Algorithm.* IEEE Transactions on Evolutionary Computation.  [`doi <http://dx.doi.org/10.1109/TEVC.2017.2735550>`_]  [`pdf <https://hal.inria.fr/hal-01630627/file/ieee_tec_voronoi_map_elites.pdf>`_]  [`url <http://ieeexplore.ieee.org/abstract/document/8000667/>`_]  [`source code <https://github.com/resibots/vassiliades_2017_cvt_map_elites>`_]
 
