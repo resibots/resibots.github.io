@@ -6,7 +6,7 @@ The ResiBots project - interview with JB Mouret
 
 .. raw:: html
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3VFWAhdiu9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3VFWAhdiu9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 
 
