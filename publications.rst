@@ -23,9 +23,9 @@ Preprints
 
 Journals
 ---------
-- D\. Howard, A\. E\. Eiben, D\. F\. Kennedy, D\. F\., J\.-B\. Mouret,  P\. Valencia, and D\. Winkler (2019). *Evolving embodied intelligence from materials to machines*. Nature Machine Intelligence, 1(1), p.12 [`pdf<https://arxiv.org/pdf/1901.05704>`_]
+- D\. Howard, A\. E\. Eiben, D\. F\. Kennedy, D\. F\., J\.-B\. Mouret,  P\. Valencia, and D\. Winkler (2019). *Evolving embodied intelligence from materials to machines*. Nature Machine Intelligence, 1(1), p.12 [`pdf <https://arxiv.org/pdf/1901.05704>`_]
 
-- A\. Cully, K\. Chatzilygeroudis, F\. Allocati, J\.-B Mouret (2018). *Limbo: A Flexible High-performance Library for Gaussian Processes modeling and Data-Efficient Optimization.* Journal of Open Source Software [`pdf<https://www.theoj.org/joss-papers/joss.00545/10.21105.joss.00545.pdf>`_] [`url <https://github.com/resibots/limbo>`_]
+- A\. Cully, K\. Chatzilygeroudis, F\. Allocati, J\.-B Mouret (2018). *Limbo: A Flexible High-performance Library for Gaussian Processes modeling and Data-Efficient Optimization.* Journal of Open Source Software [`pdf <https://www.theoj.org/joss-papers/joss.00545/10.21105.joss.00545.pdf>`_] [`url <https://github.com/resibots/limbo>`_]
 
 - A\. Gaier, A\. Asteroth, J\.-B Mouret (2018). *Data-Efficient Design Exploration through Surrogate-Assisted Illumination.* Evolutionary Computation. MIT Press. [`pdf <https://hal.inria.fr/hal-01817505/document>`_] 
 
