@@ -20,10 +20,13 @@ Preprints
 ---------
 - K\. Chatzilygeroudis, V\. Vassiliades, F\. Stulp, S\. Calinon, J\.-B\. Mouret (2018). *A survey on policy search algorithms for learning robot controllers in a handful of trials* `[url] <https://arxiv.org/abs/1807.02303>`_
 - R\. Kaushik, K\. Chatzilygeroudis, \.-B\. Mouret (2018). *Multi-objective Model-based Policy Search for Data-efficient Learning with Sparse Rewards.* `[url] <https://arxiv.org/abs/1806.09351>`_
-- J.-B Mouret, J. Clune (2015). *Illuminating search spaces by mapping elites.* arXiv preprint. `[url] <http://arxiv.org/abs/1504.04909>`_
+- J\.-B Mouret, J\. Clune (2015). *Illuminating search spaces by mapping elites.* arXiv preprint. `[url] <http://arxiv.org/abs/1504.04909>`_
 
 Journals
 ---------
+- D. Howard, A.E. Eiben, D.F. Kennedy, D.F., J.-B., Mouret,  P. Valencia, and D. Winkler (2019). *Evolving embodied intelligence from materials to machines*. Nature Machine Intelligence, 1(1), p.12.
+Vancouver	[`pdf<https://arxiv.org/pdf/1901.05704>`_]
+
 - A\. Cully, K\. Chatzilygeroudis, F\. Allocati, J\.-B Mouret (2018). *Limbo: A Flexible High-performance Library for Gaussian Processes modeling and Data-Efficient Optimization.* Journal of Open Source Software [`pdf<https://www.theoj.org/joss-papers/joss.00545/10.21105.joss.00545.pdf>`_] [`url <https://github.com/resibots/limbo>`_]
 
 - A\. Gaier, A\. Asteroth, J\.-B Mouret (2018). *Data-Efficient Design Exploration through Surrogate-Assisted Illumination.* Evolutionary Computation. MIT Press. [`pdf <https://hal.inria.fr/hal-01817505/document>`_] 
