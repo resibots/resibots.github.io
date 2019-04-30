@@ -8,6 +8,14 @@ The ResiBots project - interview with JB Mouret
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3VFWAhdiu9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
+Learning and adapting quadruped gaits with the "Intelligent Trial & Error'' algorithm (ICRA, 2019)
+----------------------------------------------------------------------------------------
+... raw:: html
+
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/v90CWJ_HsnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+E. Dalin, P. Desreumaux, J.-B. Mouret. (2019) Learning and adapting quadruped gaits with the "Intelligent Trial & Error" algorithm. ICRA Workshop on "Learning Legged Locomotion". [`pdf <https://hal.inria.fr/hal-02084619/document>`_]
+
 
 
 Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics (ICRA, 2018)
