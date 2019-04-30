@@ -314,4 +314,5 @@ texinfo_documents = [
 intersphinx_mapping = {
     'python': ('https://docs.python.org/', None),
     'limbo': ('http://www.resibots.eu/limbo/', None),
+    'sferes2' : ('http://sferes2.github.io/sferes2', None)
 }
