@@ -69,6 +69,7 @@ Position papers
 
 Workshops and minimally-reviewed publications
 ---------------------------------------------
+
 - E. Dalin, P. Desreumaux, J.-B. Mouret. (2019) Learning and adapting quadruped gaits with the "Intelligent Trial & Error" algorithm. ICRA Workshop on "Learning Legged Locomotion". [`pdf <https://hal.inria.fr/hal-02084619/document>`_]
 
 - Vassiliades V., Chatzilygeroudis K., and Mouret JB. (2017). *A comparison of illumination algorithms in unbounded spaces.* Workshop "Measuring and Promoting Diversity in Evolutionary Algorithms", Genetic and Evolutionary Computation Conference. [`pdf <https://hal.inria.fr/hal-01518814/document>`_]
