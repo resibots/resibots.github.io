@@ -10,7 +10,8 @@ The ResiBots project - interview with JB Mouret
 
 Learning and adapting quadruped gaits with the "Intelligent Trial & Error'' algorithm (ICRA, 2019)
 ----------------------------------------------------------------------------------------
-... raw:: html
+
+.. raw:: html
 
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/v90CWJ_HsnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
