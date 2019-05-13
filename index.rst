@@ -40,7 +40,9 @@ It is here contended that trial-and-error learning algorithms provide an alterna
   faq
   positions
   team
+  git_guide
   contact
+
 
 .. Indices and tables
 .. ==================

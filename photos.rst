@@ -52,6 +52,22 @@ Hexaforce robot
   :target: _static/high_res/hexaforce_aggressive.jpg
   :align: center
 
+This 6-legged robot is made with 18 MX-28 dynamixel actuators, a Xsens Mti-30 IMU and feet sensors for measuring contact forces.
+
+Minitaur robot
+^^^^^^^^^^^^^^
+
+.. image:: pics/low_res/minitaur_low.jpg
+  :alt: Minitaur robot
+  :target: _static/high_res/minitaur.jpg
+  :align: center
+
+Minitaur is a quadruped robot design by `Ghost Robotics <https://www.ghostrobotics.io/>`_ . Minitaur is a small, highly agile, lightweight and dynamic direct-drive legged R&D platform.
+
+Minitaur robot was design with an unique 5-bar kinematic leg and direct drive motors. The robot is really simple and robust in term of mechanisms.
+
+This robot is also a demonstrator and a testbed for our adaptation algorithms.
+
 
 Creadapt robot (wheel-leg hybrid)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

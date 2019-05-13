@@ -18,24 +18,11 @@ Jean-Baptiste Mouret
 
   |
 
-Vassilis Vassiliades
+Rituraj Kaushik
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/vassilis_vassiliades.png
+.. image:: pics/rituraj_kaushik.png
    :width: 100 px
-   :alt: Vassilis Vassiliades
-   :align: left
-
-- Post-doc
-- [`Personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_]
-
-  |
-  |
-
-Konstantinos Chatzilygeroudis
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/konstantinos.jpg
-   :width: 100 px
-   :alt: Konstantinos Chatzilygeroudis
+   :alt: Rituraj Kaushik
    :align: left
 
 - PhD student, supervised by Jean-Baptiste Mouret
@@ -44,11 +31,24 @@ Konstantinos Chatzilygeroudis
   |
   |
 
-Dorian Goepp
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/dgoepp.jpg
+Eloise Dalin
+^^^^^^^^^^^^^
+.. image:: pics/eloise_dalin.jpg
    :width: 100 px
-   :alt: Dorian Goepp
+   :alt: Eloise Dalin
+   :align: left
+
+- Robotics Engineer
+
+  |
+  |
+  |
+
+Pierre Desreumaux
+^^^^^^^^^^^^^^^^^
+.. image:: pics/pierre_desreumaux.jpg
+   :width: 100 px
+   :alt: Pierre Desreumaux
    :align: left
 
 - Robotics Engineer
@@ -59,11 +59,14 @@ Dorian Goepp
 
 Current Master Students
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- **Roberto Rama** / Argentina
-
 
 Alumni
 ----------
+- [2018-2019 / Engineer] **Debaleena Misra**
+- [2015-2018 / Engineer] **Dorian Goepp**
+- [2015-2018 / PhD] **Konstantinos Chatzilygeroudis** / `personal webpage <http://costashatz.github.io/>`_
+- [-2018? / Post-doc] **Vassilis Vassiliades** / `personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_
+- [2018 / master student] **Roberto Rama** / Argentina
 - [2016 / master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
 - [2016 / L3] **Jules Kozolinsky** / ENS Cachan
 - [2016 / master student] **Federico Allocati** / Argentina

@@ -127,6 +127,7 @@ html_theme_options = {
     'toc_afters': [('Limbo (BO library)', 'http://www.resibots.eu/limbo'),
                     ('Sferes2 (Evol. Comp. library)', 'http://sferes2.github.io/sferes2'),
                     ('Libdynamixel', 'http://www.resibots.eu/libdynamixel'),
+                    ('Dynamixel ROS Control', 'http://www.resibots.eu/dynamixel_control_hw'),
                     ('github', 'http://github.com/resibots' )
                   ],
 }
