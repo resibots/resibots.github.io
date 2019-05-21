@@ -43,9 +43,11 @@ Vladislav Tempez
   |
   |
   |
+  |
+
 
 Eloïse Dalin
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 .. image:: pics/eloise_dalin.jpg
    :width: 100 px
    :alt: Eloise Dalin
@@ -56,9 +58,10 @@ Eloïse Dalin
   |
   |
   |
+  |
 
 Pierre Desreumaux
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: pics/pierre_desreumaux.png
    :width: 100 px
    :alt: Pierre Desreumaux
