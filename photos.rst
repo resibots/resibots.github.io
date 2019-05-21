@@ -32,7 +32,16 @@ Robots
 --------
 Click on each image to see it bigger.
 
-6-legged robot
+6-legged robots
+^^^^^^^^^^^^^^
+.. image:: pics/low_res/hexapod_family_blanc_low_res.jpg
+   :alt: 6-legged robot
+   :target: _static/mid_res/hexapod_family_blanc.jpg
+   :align: center
+
+Our hexapod family based-on dynamixel actuators, from left to right : Pexod, miniHexa, Hexaforce
+
+Pexod robot
 ^^^^^^^^^^^^^^
 
 .. image:: pics/low_res/hexapod.jpg

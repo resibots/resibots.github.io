@@ -67,7 +67,7 @@ Youbot repository
 * `omni_common <https://github.com/resibots/omni_common>`__ contains all the data/code for our omnidirectional robots that is common to simulation and the real robot. Therefore, there is no dependency on ROS.
 * `youbot_description <https://github.com/resibots/youbot_description>`__ Robot description in form of URDF files and meshes
 * `omni_simu <https://github.com/resibots/omni_simu>`__ contains all the available simulator integrations for our omnidirectional robots
-* `omni_ros <https://github.com/resibots/omni_ros>` ROS Integration for our ommidirectional robots
+* `omni_ros <https://github.com/resibots/omni_ros>`__ ROS Integration for our ommidirectional robots
 * `teleop_youbot <https://github.com/resibots/teleop_youbot>`__  ROS package contains the launch file and configuration file for a logitech F710 joypad to control the YouBot base
 * `versaball_ros <https://github.com/resibots/versaball_ros>`__ Control the Versaball for our Omnigrasper robot.
 * `omnigrasper_mechanical_design <https://github.com/resibots/omnigrasper_mechanical_design>`__ hosts the openSCAD files for the different pieces used on the Omnigrasper

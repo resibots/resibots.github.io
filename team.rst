@@ -20,7 +20,7 @@ Jean-Baptiste Mouret
 
 Rituraj Kaushik
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/rituraj_kaushik.png
+.. image:: pics/rituraj.jpeg
    :width: 100 px
    :alt: Rituraj Kaushik
    :align: left
@@ -31,7 +31,20 @@ Rituraj Kaushik
   |
   |
 
-Eloise Dalin
+Vladislav Tempez
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: pics/vladislav_tempez.png
+   :width: 100 px
+   :alt:  Vladislav Tempez
+   :align: left
+
+- PhD student, supervised by Jean-Baptiste Mouret
+
+  |
+  |
+  |
+
+Eloïse Dalin
 ^^^^^^^^^^^^^
 .. image:: pics/eloise_dalin.jpg
    :width: 100 px
@@ -46,7 +59,7 @@ Eloise Dalin
 
 Pierre Desreumaux
 ^^^^^^^^^^^^^^^^^
-.. image:: pics/pierre_desreumaux.jpg
+.. image:: pics/pierre_desreumaux.png
    :width: 100 px
    :alt: Pierre Desreumaux
    :align: left
@@ -62,13 +75,17 @@ Current Master Students
 
 Alumni
 ----------
-- [2018-2019 / Engineer] **Debaleena Misra**
+- [2019 / Engineer] **Brice Clément**
+- [2018 / Master + Engineer] **Debaleena Misra**
 - [2015-2018 / Engineer] **Dorian Goepp**
 - [2015-2018 / PhD] **Konstantinos Chatzilygeroudis** / `personal webpage <http://costashatz.github.io/>`_
-- [-2018? / Post-doc] **Vassilis Vassiliades** / `personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_
-- [2018 / master student] **Roberto Rama** / Argentina
-- [2016 / master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
+- [2017-2018 / Post-doc] **Jonathan Spitzz**
+- [2015-2018 / Post-doc] **Vassilis Vassiliades** / `personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_
+- [2017 / Master student]**Rémi Pautrat**
+- [2016 / Master student] **Roberto Rama** / Argentina
+- [2016 / Master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
 - [2016 / L3] **Jules Kozolinsky** / ENS Cachan
+- [2016 / Master student] **Virgile Daugé**
 - [2016 / master student] **Federico Allocati** / Argentina
 - [2015 / master student] **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student / Université Jean Monnet - University of Alicante
 
