@@ -18,24 +18,11 @@ Jean-Baptiste Mouret
 
   |
 
-Vassilis Vassiliades
+Rituraj Kaushik
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/vassilis_vassiliades.png
+.. image:: pics/rituraj.jpeg
    :width: 100 px
-   :alt: Vassilis Vassiliades
-   :align: left
-
-- Post-doc
-- [`Personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_]
-
-  |
-  |
-
-Konstantinos Chatzilygeroudis
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/konstantinos.jpg
-   :width: 100 px
-   :alt: Konstantinos Chatzilygeroudis
+   :alt: Rituraj Kaushik
    :align: left
 
 - PhD student, supervised by Jean-Baptiste Mouret
@@ -44,11 +31,40 @@ Konstantinos Chatzilygeroudis
   |
   |
 
-Dorian Goepp
+Vladislav Tempez
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: pics/dgoepp.jpg
+.. image:: pics/vladislav_tempez.png
    :width: 100 px
-   :alt: Dorian Goepp
+   :alt:  Vladislav Tempez
+   :align: left
+
+- PhD student, supervised by Jean-Baptiste Mouret
+
+  |
+  |
+  |
+  |
+
+
+Eloïse Dalin
+^^^^^^^^^^^^^^^^^^
+.. image:: pics/eloise_dalin.jpg
+   :width: 100 px
+   :alt: Eloise Dalin
+   :align: left
+
+- Robotics Engineer
+
+  |
+  |
+  |
+  |
+
+Pierre Desreumaux
+^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: pics/pierre_desreumaux.png
+   :width: 100 px
+   :alt: Pierre Desreumaux
    :align: left
 
 - Robotics Engineer
@@ -59,13 +75,20 @@ Dorian Goepp
 
 Current Master Students
 ^^^^^^^^^^^^^^^^^^^^^^^^
-- **Roberto Rama** / Argentina
-
 
 Alumni
 ----------
-- [2016 / master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
+- [2019 / Engineer] **Brice Clément**
+- [2018 / Master + Engineer] **Debaleena Misra**
+- [2015-2018 / Engineer] **Dorian Goepp**
+- [2015-2018 / PhD] **Konstantinos Chatzilygeroudis** / `personal webpage <http://costashatz.github.io/>`_
+- [2017-2018 / Post-doc] **Jonathan Spitzz**
+- [2015-2018 / Post-doc] **Vassilis Vassiliades** / `personal webpage <https://www.researchgate.net/profile/Vassilis_Vassiliades>`_
+- [2017 / Master student]**Rémi Pautrat**
+- [2016 / Master student] **Roberto Rama** / Argentina
+- [2016 / Master student] **Vaios Papaspyros** / Univ. of Patras (Greece)
 - [2016 / L3] **Jules Kozolinsky** / ENS Cachan
+- [2016 / Master student] **Virgile Daugé**
 - [2016 / master student] **Federico Allocati** / Argentina
 - [2015 / master student] **Omar Samir Mohammed** / Machine Learning and Data Mining (MLDM) MSc student / Université Jean Monnet - University of Alicante
 

@@ -1,0 +1,479 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Git Guide &mdash; ResiBots  documentation</title>
+  
+
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+
+  
+
+  
+        <link rel="index" title="Index"
+              href="genindex.html"/>
+        <link rel="search" title="Search" href="search.html"/>
+    <link rel="top" title="ResiBots  documentation" href="index.html"/>
+        <link rel="next" title="Contact" href="contact.html"/>
+        <link rel="prev" title="Team" href="team.html"/>
+<style type="text/css">
+/* This CSS displays small logos at the bottom of the page, on one line */
+
+.wy-footer-logo-container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.wy-footer-logo {
+  display: inline-block;
+  width: 60px;
+}
+</style>
+
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+          
+
+          
+            <a href="http://www.resibots.eu">
+          
+
+          
+            
+            <img src="_static/resibots_logo_black_200px.png" class="logo" />
+          
+          </a>
+
+          
+
+          
+<div role="search">
+  <form id="resibots-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+
+            
+            
+                <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="index.html">Resibots - ERC Starting Grant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="videos.html">Videos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="photos.html">Lab &amp; Robots (photos)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="publications.html">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="positions.html">Open Positions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="team.html">Team</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Git Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#github-description">Github description</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#limbo">Limbo</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#sferes2">Sferes2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#dynamixel">Dynamixel</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#hexapod-repository">Hexapod repository</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#minitaur-repository">Minitaur repository</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#youbot-repository">Youbot repository</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#simulation">Simulation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#code-related-to-papers">code related to papers</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#tools">Tools</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#others">Others</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#hexapod-framework">Hexapod framework</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#minitaur-framework">Minitaur framework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="contact.html">Contact</a></li>
+</ul>
+
+            
+
+            
+            
+              
+                <a class="caption" href="http://www.resibots.eu/limbo">Limbo (BO library)</a>
+              
+                <a class="caption" href="http://sferes2.github.io/sferes2">Sferes2 (Evol. Comp. library)</a>
+              
+                <a class="caption" href="http://www.resibots.eu/libdynamixel">Libdynamixel</a>
+              
+                <a class="caption" href="http://www.resibots.eu/dynamixel_control_hw">Dynamixel ROS Control</a>
+              
+                <a class="caption" href="http://github.com/resibots">github</a>
+              
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="index.html">ResiBots</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html">Resibots</a> &raquo;</li>
+    
+    <li>Git Guide</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="git-guide">
+<h1>Git Guide<a class="headerlink" href="#git-guide" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="github-description">
+<h2>Github description<a class="headerlink" href="#github-description" title="Permalink to this headline">¶</a></h2>
+<p>The Resibots’s Git gathers usefull code for resibots’s experiments.
+This repository contains everything needed to reproduce resibot’s experiments and more.</p>
+<p>Here, it explains how the Git repository is organized. There are <strong>67</strong> repositories at the moment.</p>
+<div class="section" id="limbo">
+<h3><a class="reference external" href="https://github.com/resibots/limbo">Limbo</a><a class="headerlink" href="#limbo" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/ite_v2">ite_v2</a> : Limbo experiment, IT&amp;E code for developing hexapod experiments similar to <a class="reference external" href="https://www.nature.com/articles/nature14422">Cully et al. (2015), Nature</a></li>
+<li><a class="reference external" href="https://github.com/resibots/blackdrops">blackdrops</a> : Limbo experiment, The Black-DROPS algorithm is a model-based policy search algorithm</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="sferes2">
+<h3><a class="reference external" href="https://github.com/sferes2">Sferes2</a><a class="headerlink" href="#sferes2" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/map_elites_hexapod_v2">map_elites_hexapod_v2</a> MAP-Elites code for hexapod experiments</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="dynamixel">
+<h3>Dynamixel<a class="headerlink" href="#dynamixel" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/libdynamixel">libdynamixel</a> libdynamixel is a C++ interface to the dynamixel actuators</li>
+<li><a class="reference external" href="https://github.com/resibots/dynamixel_control_hw">dynamixel_control_hw</a> provides a hardware interface for ROS control and dynamixel actuators</li>
+</ul>
+</div>
+<div class="section" id="hexapod-repository">
+<h3>Hexapod repository<a class="headerlink" href="#hexapod-repository" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/hexapod_common">hexapod_common</a> This repository contains hexapod controllers (generic controller) and hexapod models (urdf files)</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://github.com/resibots/hexapod_simu">hexapod_simu</a></dt>
+<dd><ul class="first last">
+<li><cite>hexapod_dart</cite> DART integration for our hexapods</li>
+<li><cite>hexapod_robdyn</cite> <a class="reference external" href="https://github.com/resibots/robdyn">robdyn</a> integration for our hexapods</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://github.com/resibots/hexapod_ros">hexapod_ros</a> these packages are for ROS integration</dt>
+<dd><ul class="first last">
+<li><cite>hexapod_bringup</cite> : launch file for the hardware interface</li>
+<li><cite>hexapod_description</cite> : Xacro for hexapod, as well as relevant launch files for the description</li>
+<li><cite>hexapod_driver</cite> : C++ API to control our hexapods (talks to dynamixel_control through trajectory messages)</li>
+<li><cite>hexapod_ros</cite> : metapackage for the above packages</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><a class="reference external" href="https://github.com/resibots/hexapod_ik">hexapo_ik</a> : (ROS-ready) library to use inverse kinematics on our hexapods</li>
+<li><a class="reference external" href="https://github.com/resibots/pexod-mechanical-design">pexod-mechanical-design</a> hosts the <a class="reference external" href="https://www.openscad.org/">openSCAD</a> files for the springed-leg of the hexapod</li>
+<li><a class="reference external" href="https://github.com/resibots/optoforce">optoforce</a> contains ROS packages for the USB version of the Optoforce sensor</li>
+</ul>
+</div>
+<div class="section" id="minitaur-repository">
+<h3>Minitaur repository<a class="headerlink" href="#minitaur-repository" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/minitaur_framework">minitaur_framework</a><ul>
+<li><a class="reference external" href="https://github.com/resibots/minitaur_sdk">minitaur_sdk</a> - The minitaur ghost robotics sdk with some custom examples to be able to read and send commands from ROS and though USB</li>
+<li><a class="reference external" href="https://github.com/resibots/ros_pyminitaur">ros_pyminitaur</a> - The ros package with everything needed to read maps created with Map Elites and send the commands to the minitaur through ros</li>
+<li><a class="reference external" href="https://github.com/resibots/pybullet_minitaur_sim">pybullet_minitaur_sim</a> - This contains a pybullet minitaur simulation based on this github repository . The pybullet_minitaur_sim defines everything needed to run episodes and create maps with Map Elites.</li>
+<li><a class="reference external" href="https://github.com/resibots/pyite">pyite</a> - An IT&amp;E implementation in python, it can be used with pybullet for simulation or with ros to send commands to the real robots. It is selecting the best behaviors in the maps created with Map Elites thanks to a bayesian optimization process</li>
+<li><a class="reference external" href="https://github.com/resibots/pycontrollers">pycontrollers</a> This repository stores python robot controllers</li>
+<li><a class="reference external" href="https://github.com/resibots/pymap_elites/tree/master">pymap_elites</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="youbot-repository">
+<h3>Youbot repository<a class="headerlink" href="#youbot-repository" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/youbot_driver">youbot_driver</a> youbot API</li>
+<li><a class="reference external" href="https://github.com/resibots/youbot_driver_ros_interface">youbot_driver_ros_interface</a> Interface classes for ROS to the youBot driver.</li>
+<li><a class="reference external" href="https://github.com/resibots/omni_common">omni_common</a> contains all the data/code for our omnidirectional robots that is common to simulation and the real robot. Therefore, there is no dependency on ROS.</li>
+<li><a class="reference external" href="https://github.com/resibots/youbot_description">youbot_description</a> Robot description in form of URDF files and meshes</li>
+<li><a class="reference external" href="https://github.com/resibots/omni_simu">omni_simu</a> contains all the available simulator integrations for our omnidirectional robots</li>
+<li><a class="reference external" href="https://github.com/resibots/omni_ros">omni_ros</a> ROS Integration for our ommidirectional robots</li>
+<li><a class="reference external" href="https://github.com/resibots/teleop_youbot">teleop_youbot</a>  ROS package contains the launch file and configuration file for a logitech F710 joypad to control the YouBot base</li>
+<li><a class="reference external" href="https://github.com/resibots/versaball_ros">versaball_ros</a> Control the Versaball for our Omnigrasper robot.</li>
+<li><a class="reference external" href="https://github.com/resibots/omnigrasper_mechanical_design">omnigrasper_mechanical_design</a> hosts the openSCAD files for the different pieces used on the Omnigrasper</li>
+</ul>
+</div>
+<div class="section" id="simulation">
+<h3>Simulation<a class="headerlink" href="#simulation" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/dart">DART</a> Dynamic Animation and Robotics Toolkit</li>
+<li><a class="reference external" href="https://github.com/resibots/robdyn">Robdyn</a> simple C++ wrapper around ODE</li>
+<li><a class="reference external" href="https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet">PyBullet</a> simple Python simulator</li>
+</ul>
+</div>
+<div class="section" id="code-related-to-papers">
+<h3>code related to papers<a class="headerlink" href="#code-related-to-papers" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/cully_2015_nature">cully_2015_nature</a> WARNING This repository is for archival-purpose only. A more up-to-date implementation of IT&amp;E as described in Cully et al., 2015 is available <a class="reference external" href="https://github.com/resibots/ite_v2">here</a></li>
+<li><a class="reference external" href="https://github.com/resibots/tarapore_2016_gecco">tarapore_2016_gecco</a> Source code for the GECCO paper ‘How do different encodings influence the performance of the MAP-Elites algorithm?’</li>
+<li><a class="reference external" href="https://github.com/resibots/vassiliades_2017_cvt_map_elites">vassiliades_2017_cvt_map_elites</a> Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations</li>
+<li><a class="reference external" href="https://github.com/resibots/kaushik_2018_multi-dex">kaushik_2018_multi-dex</a> Source code for “Multi-objective Model-based Policy Search for Data-efficient Learning with Sparse Rewards” (CoRL 2018)</li>
+<li><a class="reference external" href="https://github.com/resibots/vassiliades_2018_gecco">vassiliades_2018_gecco</a> Source code for Discovering the Elite Hypervolume by Leveraging Interspecies Correlation (GECCO 2018)</li>
+<li><a class="reference external" href="https://github.com/resibots/rieffel_mouret_2018_soft_tensegrity">rieffel_mouret_2018_soft_tensegrity</a> Source code for <a href="#id1"><span class="problematic" id="id2">``</span></a>Adaptive and Resilient Soft Tensegrity Robots” (Soft Robotics, 2018)</li>
+<li><a class="reference external" href="https://github.com/resibots/chatzilygeroudis_2018_rte">chatzilygeroudis_2018_rte</a> Reset-free Trial-and-Error Learning for Robot Damage Recovery</li>
+<li><a class="reference external" href="https://github.com/resibots/pautrat_2018_mlei">pautrat_2018_mlei</a> Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search</li>
+</ul>
+</div>
+<div class="section" id="tools">
+<h3>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/simple_nn">simple_nn</a> a lightweight, generic and easy to use C++11 library for feedforward neural networks</li>
+<li><a class="reference external" href="https://github.com/resibots/mcts">mcts</a> Monte Carlo Tree Search</li>
+<li><a class="reference external" href="https://github.com/resibots/libcmaes">libcmaes</a>  is a multithreaded C++11 library with Python bindings for high performance blackbox stochastic optimization using the CMA-ES algorithm for Covariance Matrix Adaptation Evolution Strategy</li>
+<li><a class="reference external" href="https://github.com/resibots/cvt">cvt</a> C++ and Python code for creating a Centroidal Voronoi Tessellation</li>
+<li><a class="reference external" href="https://github.com/resibots/libgp">libgp</a> fork of libgp for benchmark purposes. If you need a library for Gaussian processes, please use <a class="reference external" href="https://github.com/resibots/limbo">Limbo</a> , which is more flexible and actively maintained by our group</li>
+</ul>
+</div>
+<div class="section" id="others">
+<h3>Others<a class="headerlink" href="#others" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/robot_dart">robot_dart</a> This repo contains a generic wrapper around the DART simulator.</li>
+<li><a class="reference external" href="https://github.com/resibots/ros_control_loop">ros_control_loop</a> This is a generic, but basic, control loop for ros_control.</li>
+<li><a class="reference external" href="https://github.com/resibots/esp8266-estop">esp8266-estop</a> wifi emergency stop built with the esp8266 wifi + microcontroller</li>
+<li><a class="reference external" href="https://github.com/resibots/estop-watchdog">estop-wachtdog</a> ROS-enabled emergency-stop</li>
+<li><a class="reference external" href="https://github.com/resibots/estop-gateway">estop-gateway</a> take messages sent by a network-based emergency stop device</li>
+<li><a class="reference external" href="https://github.com/resibots/teleop_tools">teleop_tools</a>  A set of generic teleoperation tools for any robot</li>
+<li><a class="reference external" href="https://github.com/resibots/phidgets_drivers-1">phidgets_driver-1</a> Drivers for the Phidgets devices</li>
+<li><a class="reference external" href="https://github.com/resibots/phidgets_drivers">phidgets_drivers</a> Drivers for the Phidgets devices.</li>
+<li><a class="reference external" href="https://github.com/resibots/phidget_textlcd">phidget_textlcd</a></li>
+<li><a class="reference external" href="https://github.com/resibots/logos">logos</a> resibots logos</li>
+<li><a class="reference external" href="https://github.com/resibots/sphinxcontrib-versioning">sphinxcontrib-versioning</a></li>
+<li><a class="reference external" href="https://github.com/resibots/sphinx_resibots_theme">sphinx_resibots_theme</a>  View our <a class="reference external" href="resibots.eu">website</a> to see how this theme looks</li>
+<li><a class="reference external" href="https://github.com/resibots/Metabot">Metabot</a> Metabot is an open-source DIY quadruped robotics platform</li>
+<li><a class="reference external" href="https://github.com/resibots/hexa_control">hexa_control</a> no longer use nor develop this software, please refer to <a class="reference external" href="https://github.com/resibots/dynamixel_control_hw">dynamixel_control_hw</a> and <a class="reference external" href="https://github.com/resibots/hexapod_ros">hexapod_ros</a> /hexapod_driver for newer software used for our hexapods.</li>
+<li><a class="reference external" href="https://github.com/resibots/dynamixel_control">dynamixel_control</a> no longer use nor develop, please refer to <a class="reference external" href="https://github.com/resibots/dynamixel_control_hw">dynamixel_control_hw</a></li>
+<li><a class="reference external" href="https://github.com/resibots/simple_walk">simple_walk</a>  made a basic tripod gait for our hexapods. No longer use nor develop.</li>
+<li><a class="reference external" href="https://github.com/resibots/format_code">format_code</a> helps us keep our C++ source files in a uniform look on all our repositories</li>
+<li><a class="reference external" href="https://github.com/resibots/mocap_optitrack">mocap_optitrack</a> ROS nodes for working with the NaturalPoint Optitrack motion capture setup</li>
+<li><a class="reference external" href="https://github.com/resibots/ITE">ITE</a> OLD, please refer to version 2 <a class="reference external" href="https://github.com/resibots/ite_v2">ite_v2</a></li>
+<li><a class="reference external" href="https://github.com/resibots/map_elites_hexapod">map_elites_hexapod</a> OLD, please refer to version 2 <a class="reference external" href="https://github.com/resibots/map_elites_hexapod_v2">map_elites_hexapod_v2</a></li>
+<li><a class="reference external" href="https://github.com/resibots/icub_crawling_v2">icun_crawling_v2</a> New implementation of crawling for the iCub robot</li>
+<li><a class="reference external" href="https://github.com/resibots/resibots_launch">resibots_lauch</a> This package contains launch and configurations files concerning experiments of the ResiBots project <strong>old</strong> (only use for launch vrpn server)</li>
+</ul>
+<blockquote>
+<div>Actually, there are two main framework :
+Hexapod and Quadruped</div></blockquote>
+</div>
+</div>
+<div class="section" id="hexapod-framework">
+<h2>Hexapod framework<a class="headerlink" href="#hexapod-framework" title="Permalink to this headline">¶</a></h2>
+<a class="reference external image-reference" href="_static/mid_res/framework_hexapod_.png"><img alt="6-legged robot" class="align-center" src="_images/framework_hexapod_.png" /></a>
+<p>This framework contains everything needed to use IT&amp;E and Map-Elites with the hexapod based-on dynamixel actuators. It includes the followings :</p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/libdynamixel">libdynamixel</a>  is a C++ interface to the dynamixel actuators</li>
+<li><a class="reference external" href="https://github.com/resibots/dynamixel_control_hw">dynamixel_control_hw</a> provides a hardware interface for ROS control and dynamixel actuators</li>
+<li><a class="reference external" href="https://github.com/resibots/hexapod_common">hexapod_common</a> contains hexapod controllers (generic controller) and hexapod models (urdf files)</li>
+<li><a class="reference external" href="https://github.com/resibots/hexapod_simu">hexapod_simu</a> hexapod DART simulation</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://github.com/resibots/hexapod_ros">hexapod_ros</a> are for ROS integration :</dt>
+<dd><ul class="first last">
+<li><cite>hexapod_bringup</cite>: <strong>launch</strong> and <strong>config</strong> file for <a class="reference external" href="https://github.com/resibots/dynamixel_control_hw">dynamixel_control_hw</a></li>
+<li><cite>hexaopod_description</cite> : urdf and xacro files</li>
+<li><cite>hexapod_controllers</cite> : homemade ROS controllers</li>
+<li><cite>hexapod_driver</cite> : ITE experiment</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://github.com/resibots/limbo">Limbo</a></dt>
+<dd><ul class="first last">
+<li><a class="reference external" href="https://github.com/resibots/ite_v2">ite_v2</a> : Limbo experiment, IT&amp;E code for developing hexapod experiments similar to <a class="reference external" href="https://www.nature.com/articles/nature14422">Cully et al. (2015), Nature</a></li>
+<li><a class="reference external" href="https://github.com/resibots/blackdrops">blackdrops</a> : Limbo experiment, The Black-DROPS algorithm is a model-based policy search algorithm</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://github.com/sferes2">Sferes2</a></dt>
+<dd><ul class="first last">
+<li><a class="reference external" href="https://github.com/resibots/map_elites_hexapod_v2">map_elites_hexapod_v2</a> MAP-Elites code for hexapod experiments</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="minitaur-framework">
+<h2>Minitaur framework<a class="headerlink" href="#minitaur-framework" title="Permalink to this headline">¶</a></h2>
+<a class="reference external image-reference" href="_static/mid_res/minitaur_framework.jpg"><img alt="6-legged robot" class="align-center" src="_images/minitaur_framework.jpg" /></a>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/minitaur_framework">minitaur_framework</a></li>
+</ul>
+<p>This framework contains everything needed to use IT&amp;E and Map-Elites with the minitaur from ghost robotics. It includes the followings :</p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="https://github.com/resibots/minitaur_sdk">minitaur_sdk</a> - The minitaur ghost robotics sdk with some custom examples to be able to read and send commands from ROS and though USB</li>
+<li><a class="reference external" href="https://github.com/resibots/ros_pyminitaur">ros_pyminitaur</a> - The ros package with everything needed to read maps created with Map Elites and send the commands to the minitaur through ros</li>
+<li><a class="reference external" href="https://github.com/resibots/pybullet_minitaur_sim">pybullet_minitaur_sim</a> - This contains a pybullet minitaur simulation based on this github repository . The pybullet_minitaur_sim defines everything needed to run episodes and create maps with Map Elites.</li>
+<li><a class="reference external" href="https://github.com/resibots/pyite">pyite</a> - An IT&amp;E implementation in python, it can be used with pybullet for simulation or with ros to send commands to the real robots. It is selecting the best behaviors in the maps created with Map Elites thanks to a bayesian optimization process</li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="contact.html" class="btn btn-neutral float-right" title="Contact" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="team.html" class="btn btn-neutral" title="Team" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo" class="wy-footer">
+    <div role="contentinfo">
+      <p>
+          &copy; Copyright 2015, Jean-Baptiste Mouret.
+        Last updated on May 29, 2019.
+
+      
+      
+        <br/>
+        <a href="mailto:jean-baptiste.mouret@inria.fr"> Contact us </a>
+      
+      </p>
+    </div>
+    <div class="wy-footer-aside">
+      Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> modified for <a href="http://resibots.eu">Resibots</a>.
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+<div class="wy-footer-logo-container">
+  <div class="wy-footer-logo"><img src="_static/logos/logo_eu.png"/></div>
+  <div class="wy-footer-logo"><img src="_static/logos/logo_erc_nonofficial.svg"/></div>
+  <div class="wy-footer-logo"><img src="_static/logos/logo_loria.jpg"/></div>
+  <div class="wy-footer-logo"><img src="_static/logos/logo-inria.svg"/></div>
+  <div class="wy-footer-logo"><img src="_static/logos/logo_cnrs.png"/></div>
+  <div class="wy-footer-logo"><img src="_static/logos/logo_universite_lorraine.jpg"/></div>
+</div>
+
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  
+
+  <script type="text/javascript" src="_static/js/theme.js"></script>
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxResibotsTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

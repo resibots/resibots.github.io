@@ -103,8 +103,10 @@
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Lab &amp; Robots (photos)</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#the-lab-inria-nancy">The lab &#64; Inria Nancy</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#robots">Robots</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#legged-robot">6-legged robot</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#legged-robots">6-legged robots</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#pexod-robot">Pexod robot</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#hexaforce-robot">Hexaforce robot</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#minitaur-robot">Minitaur robot</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#creadapt-robot-wheel-leg-hybrid">Creadapt robot (wheel-leg hybrid)</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#kuka-youbot-versaball">Kuka YouBot + Versaball</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#omnipointer">Omnipointer</a></li>
@@ -117,6 +119,7 @@
 <li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="positions.html">Open Positions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="team.html">Team</a></li>
+<li class="toctree-l1"><a class="reference internal" href="git_guide.html">Git Guide</a></li>
 <li class="toctree-l1"><a class="reference internal" href="contact.html">Contact</a></li>
 </ul>
 
@@ -130,6 +133,8 @@
                 <a class="caption" href="http://sferes2.github.io/sferes2">Sferes2 (Evol. Comp. library)</a>
               
                 <a class="caption" href="http://www.resibots.eu/libdynamixel">Libdynamixel</a>
+              
+                <a class="caption" href="http://www.resibots.eu/dynamixel_control_hw">Dynamixel ROS Control</a>
               
                 <a class="caption" href="http://github.com/resibots">github</a>
               
@@ -191,8 +196,13 @@
 <div class="section" id="robots">
 <h2>Robots<a class="headerlink" href="#robots" title="Permalink to this headline">¶</a></h2>
 <p>Click on each image to see it bigger.</p>
-<div class="section" id="legged-robot">
-<h3>6-legged robot<a class="headerlink" href="#legged-robot" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="legged-robots">
+<h3>6-legged robots<a class="headerlink" href="#legged-robots" title="Permalink to this headline">¶</a></h3>
+<a class="reference external image-reference" href="_static/mid_res/hexapod_family_blanc.jpg"><img alt="6-legged robot" class="align-center" src="_images/hexapod_family_blanc_low_res.jpg" /></a>
+<p>Our hexapod family based-on dynamixel actuators, from left to right : Pexod, miniHexa, Hexaforce</p>
+</div>
+<div class="section" id="pexod-robot">
+<h3>Pexod robot<a class="headerlink" href="#pexod-robot" title="Permalink to this headline">¶</a></h3>
 <a class="reference external image-reference" href="_static/mid_res/hexapod.jpg"><img alt="6-legged robot" class="align-center" src="_images/hexapod.jpg" /></a>
 <p>The last version of our 6-legged robot, which was featured on the cover of Nature (see <a class="reference internal" href="publications.html"><span class="doc">Publications</span></a>). Videos are available on the <a class="reference internal" href="videos.html"><span class="doc">Videos</span></a> page. This 6-legged robot is made with 18 MX-28 dynamixel actuators, a Xsens Mti-30 IMU, and a Asus x-tion (RGB-D sensor / Kinect). The silver spheres on top of the x-tion are for the motion tracking.</p>
 <p>This robot is a demonstrator and a testbed for our adaptation algorithms. It has no direct intended application, but the <em>algorithms</em> that we test with it have appplications.</p>
@@ -200,6 +210,14 @@
 <div class="section" id="hexaforce-robot">
 <h3>Hexaforce robot<a class="headerlink" href="#hexaforce-robot" title="Permalink to this headline">¶</a></h3>
 <a class="reference external image-reference" href="_static/high_res/hexaforce_aggressive.jpg"><img alt="6-legged robot" class="align-center" src="_images/hexaforce_aggressive.jpg" /></a>
+<p>This 6-legged robot is made with 18 MX-28 dynamixel actuators, a Xsens Mti-30 IMU and feet sensors for measuring contact forces.</p>
+</div>
+<div class="section" id="minitaur-robot">
+<h3>Minitaur robot<a class="headerlink" href="#minitaur-robot" title="Permalink to this headline">¶</a></h3>
+<a class="reference external image-reference" href="_static/high_res/minitaur.jpg"><img alt="Minitaur robot" class="align-center" src="_images/minitaur_low.jpg" /></a>
+<p>Minitaur is a quadruped robot design by <a class="reference external" href="https://www.ghostrobotics.io/">Ghost Robotics</a> . Minitaur is a small, highly agile, lightweight and dynamic direct-drive legged R&amp;D platform.</p>
+<p>Minitaur robot was design with an unique 5-bar kinematic leg and direct drive motors. The robot is really simple and robust in term of mechanisms.</p>
+<p>This robot is also a demonstrator and a testbed for our adaptation algorithms.</p>
 </div>
 <div class="section" id="creadapt-robot-wheel-leg-hybrid">
 <h3>Creadapt robot (wheel-leg hybrid)<a class="headerlink" href="#creadapt-robot-wheel-leg-hybrid" title="Permalink to this headline">¶</a></h3>
@@ -247,7 +265,7 @@
     <div role="contentinfo">
       <p>
           &copy; Copyright 2015, Jean-Baptiste Mouret.
-        Last updated on May 27, 2019.
+        Last updated on May 29, 2019.
 
       
       
